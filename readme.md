@@ -37,7 +37,6 @@ meu-projeto/
 
 Após instalar o Nodejs no seu computador e o npm, faça os seguintes comandos : 
 ```
-npm init 
-npm install express
+npm install 
 node server.js
 ```
